@@ -1,15 +1,16 @@
-# ML_Classification_Model_For_Predicting_Fraudulent_Bank_Transactions
+# ML Classification Model For Predicting Fraudulent Bank Transactions for Imnalanced Data
 
 Author: Migle Apanaviciute
 
 Date: 23/05/2021
 
-I built a simple classification model using the "BankTransactions.xlsx" data set for labeling fraudulent vs non-fraudulent bank transactions in Python. My metric is Class Labels.
+I built a simple classification model using the "BankTransactions.xlsx" data set for labeling fraudulent vs non-fraudulent bank transactions in Python.
 This project is organized as follows: 
+    (not included) data cleaning;
     (1 & 2) data loading and exploration; 
     (3) feature engineering; 
-    (4) testing 5 probable algorithms for my dataset; 
-    (5) hyper-parameters tuning and running Random Forest algorithm.
+    (4) testing 5 probable algorithms for my data set; 
+    (5) hyperparameters tuning and running Random Forest algorithm.
 
 "BankTransactions.xlsx": dataset used for model building.
 
