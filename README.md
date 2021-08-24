@@ -1,4 +1,4 @@
-# ML Classification Model For Predicting Fraudulent Bank Transactions for Imnalanced Data
+# ML Classification Model For Predicting Fraudulent Bank Transactions for Imnalanced Data (still in development)
 
 Author: Migle Apanaviciute
 
